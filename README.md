@@ -1,4 +1,4 @@
-# POWER-BI
+# FINANCIAL ANALYSIS Dash board
 
 
 The given data is for for financial company. Company had 5 segments. They are
