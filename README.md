@@ -1,4 +1,4 @@
-# FINANCIAL ANALYSIS Dash board
+# FINANCIAL ANALYSIS DASH BOARD
 
 
 The given data is for for financial company. Company had 5 segments. They are
